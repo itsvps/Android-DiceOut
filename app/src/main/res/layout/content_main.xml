@@ -53,8 +53,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/die2Image"
         android:layout_marginTop="50dp"
-        android:text="You score only for double or Triple!\nFor double : 50 points!\nFor Triple : Number * 100 points!"
-        />
+        android:text="You score only for double or Triple!\nFor double : 50 points!\nFor Triple : Dice Number * 100 points!"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
